@@ -21,8 +21,8 @@ class Formulario extends Component {
             mensaje = "Todo mal"
         }
         let user= {
-            nombre:"Miguel",
-            password: "1234"
+            nombre:"",
+            password: ""
         }
         const {claseForm ,boton, ...resto} = this.props
         return (

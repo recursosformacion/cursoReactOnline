@@ -1,0 +1,49 @@
+[{
+    "id": "1",
+    "name": "hero Product",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "10",
+    "hero": "OMG This just came out today!",
+    "image": "http://placehold.it/940x300/999/CCC"
+}, {
+    "id": "2",
+    "name": "Product 1",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "12",
+    "info": "This is the latest and greatest product from Derp corp.",
+    "image": "http://placehold.it/300x300/999/CCC"
+}, {
+    "id": "3",
+    "name": "Product 2",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "29",
+    "offer": "BOGOF",
+    "image": "http://placehold.it/300x300/999/CCC"
+}, {
+    "id": "4",
+    "name": "Product 3",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "32",
+    "image": "http://placehold.it/300x300/999/CCC"
+}, {
+    "id": "5",
+    "name": "Product 4",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "5",
+    "offer": "No srsly GTFO",
+    "image": "http://placehold.it/300x300/999/CCC"
+}, {
+    "id": "6",
+    "name": "Product 5",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "20",
+    "image": "http://placehold.it/300x300/999/CCC"
+}, {
+    "id": "7",
+    "name": "Product 6",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "18",
+    "info": "This is the latest and greatest product from Derp corp.",
+    "offer": "info with offer",
+    "image": "http://placehold.it/300x300/999/CCC"
+}]
